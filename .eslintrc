@@ -1,0 +1,9 @@
+{
+    "extends": "react-app",
+    "rules": {
+        "semi":"warn",
+        "default-case":"warn",
+        "no-empty-function":"warn",
+        "no-trailing-spaces":"warn"
+    }
+}
